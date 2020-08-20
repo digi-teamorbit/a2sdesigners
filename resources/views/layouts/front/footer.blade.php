@@ -48,7 +48,7 @@
             <div class="ftr-cl">
               <i class="fa fa-map-marker" aria-hidden="true"></i>
               <div class="ftr-cltxt">
-    <p><a href="tel:{{ App\Http\Traits\HelperTrait::returnFlag(519) }}">{{ App\Http\Traits\HelperTrait::returnFlag(519) }}</p>
+              <p>{{ App\Http\Traits\HelperTrait::returnFlag(519) }}</p>
               </div>
             </div>
           </div>
