@@ -92,7 +92,7 @@
                   <p><a href="tel:{{ App\Http\Traits\HelperTrait::returnFlag(59) }}">Toll Free :{{ App\Http\Traits\HelperTrait::returnFlag(59) }}</p>
                 </div>
                 </div>
-          <iframe allowfullscreen="" frameborder="0" height="272" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.4837473490684!2d-74.10559168522028!3d40.90513803371527!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2fbe9809b8f7d%3A0xc6f95b1920b6dda3!2sPark+80+West!5e0!3m2!1sen!2s!4v1552398581397" style="border:0" width="100%"></iframe>
+          <iframe allowfullscreen="" frameborder="0" height="272" src="https://maps.google.com/maps?q='+{{ App\Http\Traits\HelperTrait::returnFlag(519) }}+'&output=embed" style="border:0" width="100%"></iframe>
             </div>
           </div>
         </div>
