@@ -1,0 +1,24 @@
+{
+   "menus":[
+      {
+         "section":"Modules",
+         "items":[
+            {
+               "title":"Career",
+               "icon":"fas fa-user-md",
+               "url":"\/admin\/career"
+            },
+            {
+               "title":"WhyChooseUs",
+               "icon":"far fa-edit",
+               "url":"\/admin\/why-choose-us"
+            },
+            {
+               "title":"Team",
+               "icon":"fas fa-users",
+               "url":"\/admin\/team"
+            }
+         ]
+      }
+   ]
+}
