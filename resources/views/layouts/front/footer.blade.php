@@ -59,7 +59,7 @@
           <div class="row">
             <div class="col-md-6 col-xs-12 col-sm-6">
               <div class="cpyrght-txt">
-                <p>&copy; 2010 A2S Designers. All Rights reserved by 4AM Group</p>
+                <p>&copy;{{ App\Http\Traits\HelperTrait::returnFlag(499) }}</p>
               </div>
             </div>
             <div class="col-md-6 col-xs-12 col-sm-6">
